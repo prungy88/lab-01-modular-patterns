@@ -1,8 +1,6 @@
 ![CF](assets/shield-32x32.png) Lab 01: Modular Patterns and Testing
 ===
 
-[![Issues in Lab Help](https://badge.waffle.io/codefellows/seattle-javascript-401n1.svg?label=question&title=Lab%20Help)](https://waffle.io/codefellows/seattle-javascript-401n1) [![Issues in Bug](https://badge.waffle.io/codefellows/seattle-javascript-401n1.svg?label=bug&title=Bug)](https://waffle.io/codefellows/seattle-javascript-401n1) [![Build Status](https://travis-ci.org/codefellows-seattle-javascript-401n1/lab-01-modular-patterns.svg?branch=master)](https://travis-ci.org/codefellows-seattle-javascript-401n1/lab-01-modular-patterns)
-
 ##To Submit this Assignment
   * fork this repository
   * write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-duncan`
