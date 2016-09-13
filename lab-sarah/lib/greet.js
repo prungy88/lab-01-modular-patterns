@@ -2,8 +2,8 @@
 
 module.exports = exports = {};
 
-exports.sayHello = function(name) {
-  if (arguments.length === 0 )
+module.exports = function (name) {
+  if (!name)
     throw new Error('missing a name');
   return 'hello ' + name;
 };
