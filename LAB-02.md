@@ -2,9 +2,7 @@
 ======
 
 ##To Submit this Assignment
-  * fork this repository
-  * write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-duncan`
-  * push to your repository
+  * working in your fork from LAB-01
   * submit a pull request to this repository
   * submit a link to your PR in canvas
   * write a question and observation on canvas
